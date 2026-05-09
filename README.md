@@ -1,2 +1,4 @@
-# sschool-management-
-for school purpose
+index.html
+style.css
+script.js
+README.md
